@@ -2,7 +2,8 @@
 <html>
 <body>
 
-<h1>Testing maual process of devops</h1>
+<h1>Pipeline created between Git and Beanstalk -- Testing is auto changes CI CD takes affect</h1>
+  <h2>Joel Wanderema</h2>
 
 <?php
 echo "version :Ver 2.0";
